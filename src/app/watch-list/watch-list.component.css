@@ -1,0 +1,8 @@
+.watch-list{
+    margin: 3px;
+
+}
+.wl-item{
+    padding: 2px;
+    border: red 2px dotted;
+}
